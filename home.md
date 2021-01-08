@@ -1,4 +1,7 @@
-# Test Heade
+layout: page
+tile: "Home"
+permalink: /
+# Test Header
 ## Section 1
 - 1
 - 2
